@@ -36,7 +36,7 @@ This project not only offers the traditional Player vs. Player mode but also int
 4. Make your moves and experience the thrill of the game!
 
 ## Project Structure
-- **tic_tac_toe :** The main folder containing all the source code and files.
+- **tic-tac-toe game :** The main folder containing all the source code and files.
 
 - **game.py :** The main Python script containing the game logic and GUI implementation.
 
@@ -47,7 +47,7 @@ This project not only offers the traditional Player vs. Player mode but also int
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/codefever07/tic-tac-toe-game
 2. **install all the required libraries :**
     ```
     pip install -requirements.txt
