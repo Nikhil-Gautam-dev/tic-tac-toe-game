@@ -50,7 +50,7 @@ This project not only offers the traditional Player vs. Player mode but also int
    git clone https://github.com/codefever07/tic-tac-toe-game
 2. **install all the required libraries :**
     ```
-    pip install -requirements.txt
+    pip install -r requirements.txt
 3. **Start the game by running following command:**
    ```bash
     python game.py
