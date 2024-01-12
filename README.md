@@ -1,6 +1,6 @@
-# Tic-Tac-Toe Game with Python and Turtle Graphics 🐢🎮
+# Tic-Tac-Toe Game with Python and Tkinter Graphics 🐢🎮
 
-Welcome to the Tic-Tac-Toe project, a classic game brought to life with Python and the Turtle graphics library! This project offers an interactive and enjoyable gaming experience, featuring both Player vs. Player and Player vs. Computer modes.
+Welcome to the Tic-Tac-Toe project, a classic game brought to life with Python and the Tkinter graphics library! This project offers an interactive and enjoyable gaming experience, featuring both Player vs. Player and Player vs. Computer modes.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,18 +21,18 @@ This project not only offers the traditional Player vs. Player mode but also int
 ## Key Features
 - **Player vs. Player Mode:** Challenge a friend for a classic Tic-Tac-Toe showdown.
 - **Player vs. Computer Mode:** Face off against a smart computer opponent with strategic moves.
-- **Interactive GUI:** The game features a sleek and user-friendly graphical user interface created using the Turtle graphics library.
+- **Interactive GUI:** The game features a sleek and user-friendly graphical user interface created using the Tkinter graphics library.
 - **Smart Computer Moves:** The computer calculates optimal moves using NumPy, adding a layer of strategy to the game.
 
 ## Tech Stack
 - Python 🐍
-- Turtle Graphics 🐢
+- Tkinter Graphics 🐢
 - NumPy (for computer intelligence) 🧮
 
 ## How to Play
 1. Run the Python script (game.py).
 2. Choose between a custom Player vs. Player game or challenge the computer.
-3. Enjoy the interactive Turtle graphics interface.
+3. Enjoy the interactive Tkinter graphics interface.
 4. Make your moves and experience the thrill of the game!
 
 ## Project Structure
@@ -69,6 +69,6 @@ Contributions are welcome! Whether you want to fix bugs, improve the AI, or add 
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Special thanks to the Python community, the creators of the Turtle graphics library, and the contributors to NumPy for their valuable tools and resources.
+Special thanks to the Python community, the creators of the Tkinter graphics library, and the contributors to NumPy for their valuable tools and resources.
 
 Let's connect and build something amazing together! 🚀🐍💻
